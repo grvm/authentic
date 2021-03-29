@@ -11,7 +11,7 @@ license: MIT
 dependencies:
   lucky:
     github: luckyframework/lucky
-    branch: master
+    branch: crystal1.0
   habitat:
     github: luckyframework/habitat
     branch: master
@@ -19,7 +19,7 @@ dependencies:
 development_dependencies:
   avram:
     github: luckyframework/avram
-    branch: master
+    branch: crystal1.0
   ameba:
     github: crystal-ameba/ameba
     version: ~> 0.13.4
